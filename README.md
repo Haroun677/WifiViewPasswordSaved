@@ -63,12 +63,9 @@ This program uses Windows command-line tools:
 
 ## 📷 Preview
 
-```
-[01] WiFi Name        [PASSWORD] : ********
-[02] Home Network     [PASSWORD] : ********
-```
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/9742cca8-8fb6-4ac8-b209-7aef19c034f1" />
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6956e93e-f9b7-41a5-bdd5-87db384956c5" />
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/9742cca8-8fb6-4ac8-b209-7aef19c034f1" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6956e93e-f9b7-41a5-bdd5-87db384956c5" />
+
 
 
 
