@@ -63,9 +63,10 @@ This program uses Windows command-line tools:
 
 ## 📷 Preview
 
-
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/9742cca8-8fb6-4ac8-b209-7aef19c034f1" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6956e93e-f9b7-41a5-bdd5-87db384956c5" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9742cca8-8fb6-4ac8-b209-7aef19c034f1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6956e93e-f9b7-41a5-bdd5-87db384956c5" width="45%" />
+</p>
 
 
 
