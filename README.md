@@ -51,15 +51,6 @@ This program uses Windows command-line tools:
 * `netsh wlan show profiles` → to list saved WiFi networks
 * `netsh wlan show profile name="..." key=clear` → to extract passwords
 
----
-
-## ⚠️ Important Notes
-
-* This tool only works on **Windows**
-* It shows passwords **already saved on your system**
-* Administrator privileges may be required
-
----
 
 ## 📷 Preview
 
