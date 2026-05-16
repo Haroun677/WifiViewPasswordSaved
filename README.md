@@ -12,15 +12,6 @@ A simple and professional Windows tool written in C that allows you to view save
 * 🎨 Clean console UI with colors
 * 🪶 Lightweight and fast (no external dependencies)
 
----
-
-## ⚙️ Requirements
-
-* Windows OS
-* GCC compiler (MinGW recommended)
-
----
-
 ## 🚀 Installation & Usage
 
 ### 1. Clone the repository
