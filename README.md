@@ -18,7 +18,7 @@ A simple and professional Windows tool written in C that allows you to view save
 
 ```bash
 git clone https://github.com/Haroun677/WifiViewPasswordSaved.git
-cd WifiViewPasswordSaved
+cd wifiView.c
 ```
 
 ### 2. Compile the program
@@ -34,13 +34,6 @@ gcc wifiView.c -o wifiView
 ```
 
 ---
-
-## 🧠 How It Works
-
-This program uses Windows command-line tools:
-
-* `netsh wlan show profiles` → to list saved WiFi networks
-* `netsh wlan show profile name="..." key=clear` → to extract passwords
 
 
 ## 📷 Preview
